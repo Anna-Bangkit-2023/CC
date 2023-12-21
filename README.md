@@ -13,7 +13,7 @@ This project aims to guide someone to improving their English communication skil
 
 ## ☁️ Cloud Computing : Rest API use Laravel 10 and Deploy to Computed Engine
 
-Implement Rest API to send Audio from Mobile Application to Machine Learning in the backend using Laravel 10 and integrate into Rest API Chat-GPT to automatically reply to audio transcripts from Machine Learning, then create authentication endpoints and chat rooms. Also build the architecture using Google Cloud Platform by using Compute Engine VM Service for BackEnd and Cloud Run for deploying the Machine Learning.
+Implement Rest API to send Audio from Mobile Application to Machine Learning in the backend using Laravel 10 and integrate into Rest API Chat-GPT to automatically reply to audio transcripts from Machine Learning, then create authentication endpoints and chat rooms. Also build the architecture using Google Cloud Platform by using Compute Engine VM Service for BackEnd and Cloud Run for deploying the Machine Learning Model.
 ![Anna Project](computed-engine.jpeg)
 ![Anna Project](postman.jpeg)
 
